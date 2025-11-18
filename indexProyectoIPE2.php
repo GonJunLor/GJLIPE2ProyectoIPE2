@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
     Autor: Gonzalo Junquera Lorenzo
-    Fecha modificación: 06/10/2025
+    Fecha modificación: 19/11/2025
     Descripción: Indice general de la asignatura
 -->
 <html lang="es">
@@ -41,10 +41,10 @@
         </section>
 
     </main>
-    <footer id="pieEDD">
+    <footer id="pie">
         <div>
             <a href="/feed/rss.xml" type="application/rss+xml" target="_blank"><i class="fa-solid fa-rss"></i></a>
-            <a href="https://github.com/GonJunLor/108EDDProyectoEDD" target="_blank">
+            <a href="https://github.com/GonJunLor/GJLIPE2ProyectoIPE2.git" target="_blank">
                 <i class="fa-brands fa-github"></i>
             </a>
             <a href="https://mogutable.com/" target="_blank"><i class="fa-solid fa-house"></i></a>
@@ -57,7 +57,7 @@
             <a href="/index.html">
             <address style="display: inline;">Gonzalo Junquera Lorenzo</address>
             </a>
-            <time datetime="2025-10-06">06-10-2025</time>
+            <time datetime="2025-11-19">19-11-2025</time>
         </div>
     </footer>
 </body>
