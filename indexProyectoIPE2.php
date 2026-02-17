@@ -45,6 +45,22 @@
                         <h4>Manual Como Arreglar grieta</h4>
                     </a>
                 </article>
+                <article class="practica">
+                    <iframe src="doc/Proyecto Empresa.pdf"></iframe>
+                    <a href="doc/Proyecto Empresa.pdf" target="_blank">
+                        <img src="webroot/media/images/ies.png" alt="Banner">
+                        <div class="superpuesto"></div>
+                        <h4>Proyecto AAAT</h4>
+                    </a>
+                </article>
+                <article class="practica">
+                    <iframe src="doc/PresentacionAAAT.pdf"></iframe>
+                    <a href="doc/PresentacionAAAT.pdf" target="_blank">
+                        <img src="webroot/media/images/ies.png" alt="Banner">
+                        <div class="superpuesto"></div>
+                        <h4>Presentación AAAT</h4>
+                    </a>
+                </article>
             </div>
         </section>
 
