@@ -61,6 +61,14 @@
                         <h4>Presentación AAAT</h4>
                     </a>
                 </article>
+                <article class="practica">
+                    <iframe src="doc/AnuncioAAAT.mp4"></iframe>
+                    <a href="doc/AnuncioAAAT.mp4" target="_blank">
+                        <img src="webroot/media/images/ies.png" alt="Banner">
+                        <div class="superpuesto"></div>
+                        <h4>Anuncio AAAT</h4>
+                    </a>
+                </article>
             </div>
         </section>
 
